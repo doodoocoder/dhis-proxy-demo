@@ -1,0 +1,4 @@
+proxy:
+    dhis:
+        servlet_url: /dhis/*
+        target_url: http://192.168.120.215:2322/dhis
